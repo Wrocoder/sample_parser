@@ -1,0 +1,6 @@
+selenium:
+  driverPath: /home/dkysyelyev/PycharmProjects/nofluffjobs/chromedriver_linux64/chromedriver
+  driverPathLocal: chromedriver_linux64/chromedriver
+scraper:
+  url:
+    MasterUrl: https://nofluffjobs.com/pl
