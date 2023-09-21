@@ -1,5 +1,5 @@
 selenium:
-  driverPath: /home/dkysyelyev/PycharmProjects/nofluffjobs/chromedriver_linux64/chromedriver
+  driverPath: /home/###/PycharmProjects/nofluffjobs/chromedriver_linux64/chromedriver
   driverPathLocal: chromedriver_linux64/chromedriver
 scraper:
   url:
